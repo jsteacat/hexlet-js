@@ -10,9 +10,11 @@
   "author": "Stepan Kormilin <ubscoder@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "eslint": "^8.52.0",
     "prettier": "^3.0.3"
   }
 }
