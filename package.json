@@ -1,0 +1,12 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hexlet Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stepan Kormilin <ubscoder@gmail.com>",
+  "license": "ISC"
+}
